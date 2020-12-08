@@ -1,3 +1,15 @@
+## What is this code about?
+
+**This code prints 'colorful' in different colors which loops forever**
+
+
+```
+What all you need for this program to run:
+    - Python
+    - IDE
+```
+
+```python
 # Importing Random and Time (They are default modules so there is no need to download them)
 import random
 import time
@@ -57,3 +69,4 @@ while 1:
         time.sleep(0.1)
         # declares a as 1, to loop the program
         a = 1
+```
