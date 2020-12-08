@@ -3,11 +3,10 @@
 **This code prints 'colorful' in different colors which loops forever**
 
 
-```
 What all you need for this program to run:
     - Python
     - IDE
-```
+
 
 ```python
 # Importing Random and Time (They are default modules so there is no need to download them)
