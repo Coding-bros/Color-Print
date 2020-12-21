@@ -1,12 +1,10 @@
-## What is this code about?
+### What is Colorful Output?
+*Colorful Output is a small program which prints whatevery you want, in multiple colors, which loops forever.*
+*This code is actually satisfying :)*
 
-**This code prints 'colorful' in different colors which loops forever**
-
-```
-What all you need for this program to run:
+### What all you need for this program to run:
     - Python
     - IDE
-```
 
 ```python
 # Importing Random and Time (They are default modules so there is no need to download them)
